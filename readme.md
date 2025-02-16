@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Time Capsule Generator** is a web application built using **Streamlit** and powered by **OpenAI's GPT-3.5/4** model. It allows users to create personalized time capsules by reflecting on their current life, goals, and thoughts. The application generates a unique time capsule containing a reflective summary, future predictions, and a heartfelt letter from the user's past self to their future self. Users can also share their time capsules on social media or download them as JSON files.
+The **Time Capsule Generator** is a web application built using **Streamlit** and powered by **DeepSeek-V3, OpenAI's GPT-3.5/4** model. It allows users to create personalized time capsules by reflecting on their current life, goals, and thoughts. The application generates a unique time capsule containing a reflective summary, future predictions, and a heartfelt letter from the user's past self to their future self. Users can also share their time capsules on social media or download them as JSON files.
 
 ## Features
 
@@ -62,9 +62,11 @@ iv. **Share Your Capsule**:
 Use the "Share" tab to share your time capsule on social media platforms.
 
 ## Acknowledgments
+DeepSeek-V3 for providing insight into idea.
 OpenAI for providing the GPT-3.5/4 API.
 Streamlit for the easy-to-use web framework.
 Google for the Gmail API and OAuth 2.0 integration.
+Facebook for providing a platform to create FB login app to be integrated with TimeCapsule.
 
 
 ## Contact
