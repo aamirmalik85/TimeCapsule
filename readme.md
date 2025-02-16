@@ -1,17 +1,8 @@
-title: Time Capsule
-emoji: 🏆
-colorFrom: gray
-colorTo: red
-sdk: streamlit
-sdk_version: 1.42.0
-app_file: app.py
-pinned: false
-short_description: Travel in Time
-
 title: Time Capsule Generator
 emoji: 🏆
-colorFrom: gray
-colorTo: red
+
+short_description: Travel in Time
+
 Overview
 The Time Capsule Generator is a web application built using Streamlit and powered by Deepseek and OpenAI's GPT-3.5/4 models. It allows users to create personalized time capsules by reflecting on their current life, goals, and thoughts. The application generates a unique time capsule containing a reflective summary, future predictions, and a heartfelt letter from the user's past self to their future self. Users can also share their time capsules on social media or download them as JSON files.
 
