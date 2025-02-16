@@ -47,7 +47,7 @@ Access the Application:
 
 Open your browser and navigate to http://localhost:8501.
 
-5. *Usage*
+## Usage
 i. **Create a Time Capsule**:
   Navigate to the "Create Capsule" tab.
   Fill in your name, email, and reflections on your current life, goals, and thoughts.
@@ -63,16 +63,16 @@ In the "Unbox Capsule" tab, select a capsule to unbox and generate new reflectio
 iv. **Share Your Capsule**:
 Use the "Share" tab to share your time capsule on social media platforms.
 
-6. *License*
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-7. *Acknowledgments*
+## Acknowledgments
 OpenAI for providing the GPT-3.5/4 API.
 Streamlit for the easy-to-use web framework.
 Google for the Gmail API and OAuth 2.0 integration.
 
 
-##**Contact**
+## Contact
 For any questions or feedback, please reach out to [Aamir Malik] at [anm782@gmail.com].
 
 Built with ❤️ using DeepSeek / OpenAI and Streamlit.
