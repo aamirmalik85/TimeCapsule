@@ -1,5 +1,4 @@
-# Time Capsule Generator
-##🏆
+# Time Capsule Generator  🏆
 
 ## Overview
 
